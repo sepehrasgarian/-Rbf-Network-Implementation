@@ -1,6 +1,6 @@
 Implement a RBF neural network. Fuzzy c-means (FCM) was used in order to find the best center of clusters for training RBF. FCM is a method of clustering which allows one piece of data to belong to two or more clusters. For implementing this method I used this link:[FCM](https://home.deib.polimi.it/matteucc/Clustering/tutorial_html/cmeans.html)
 
-**My outputs for 5 classes with 8 clusters **
+**My outputs for 5 classes Data set and 8 clusters with FCM algorithm **
 
 
 ![cluster](https://user-images.githubusercontent.com/38491713/73453535-77532000-4381-11ea-9f02-5d92c98a4b91.png)
