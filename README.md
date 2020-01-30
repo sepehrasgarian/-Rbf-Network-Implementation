@@ -13,5 +13,5 @@ Implement a RBF neural network. Fuzzy c-means (FCM) was used in order to find th
 
 
 
-**final outputs that classify outputs with 96 percent accuracy for train and test**
+**final result that classify outputs with 96 percent accuracy for train and test**
 ![final](https://user-images.githubusercontent.com/38491713/73454154-bafa5980-4382-11ea-863f-fd2393a079c2.png)
